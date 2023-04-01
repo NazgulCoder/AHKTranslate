@@ -1,9 +1,13 @@
 # AHKTranslate
-This script helps you translate text from one language to another by using a website called MyMemory. 
+This script helps you translate text from one language to another. 
 You can use it by selecting some text and then pressing the keys ```CTRL + ALT + Z``` on your keyboard. The translated text will then be copied to your clipboard, which you can paste into another program like Word or Notepad. You can also change the languages by editing a file in the same folder as the script.
 
-[![image](https://user-images.githubusercontent.com/85739956/229300118-e24bcd7c-cc33-479a-9328-e55b0e669337.png)](https://i.gyazo.com/d8dd0f34a91c56ecec6d3ca0ccff80a8.gif)
+![](https://i.gyazo.com/d8dd0f34a91c56ecec6d3ca0ccff80a8.gif)
 
+## FAIR USAGE
+AHKTranslate uses MyMemory Free API which has a [daily limit](https://mymemory.translated.net/doc/usagelimits.php) of 5000 chars. If you need more refer to their great service unlike Google, Yandex, DeepL that don't offer a free API*.
+
+*with free API I mean **FREE FOR REAL** and not that you have to give your CC details
 
 ## LICENSE
 
