@@ -9,6 +9,9 @@ AHKTranslate uses MyMemory Free API which has a [daily limit](https://mymemory.t
 
 *with free API I mean **FREE FOR REAL** and not that you have to give your CC details
 
+Donations
+- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/26428acd-41f8-4679-879e-3e00b91bee62) 86Xpx2XiMwtKvn6Cft9k61NWwVNMB9GHNTFt5SVTN5bGLFeLUAzECdmdgBQU9BaSnEaQkjqfRDTyhWm3Lige8SHmR1CbjXU
+
 ## LICENSE
 
 
